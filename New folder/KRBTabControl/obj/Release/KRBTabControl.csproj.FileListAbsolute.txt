@@ -1,0 +1,7 @@
+C:\Users\ABC\Desktop\New folder\KRBTabControl\bin\Release\KRBTabControl.dll
+C:\Users\ABC\Desktop\New folder\KRBTabControl\bin\Release\KRBTabControl.pdb
+C:\Users\ABC\Desktop\New folder\KRBTabControl\obj\Release\KRBTabControl.Resources.resources
+C:\Users\ABC\Desktop\New folder\KRBTabControl\obj\Release\KRBTabControl.csproj.GenerateResource.Cache
+C:\Users\ABC\Desktop\New folder\KRBTabControl\obj\Release\KRBTabControl.dll
+C:\Users\ABC\Desktop\New folder\KRBTabControl\obj\Release\KRBTabControl.pdb
+C:\Users\ABC\Desktop\New folder\KRBTabControl\obj\Release\KRBTabControl.csprojResolveAssemblyReference.cache

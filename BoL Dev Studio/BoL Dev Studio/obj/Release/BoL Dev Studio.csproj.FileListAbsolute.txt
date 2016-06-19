@@ -1,0 +1,17 @@
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\bin\Release\BoL Dev Studio.exe.config
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\bin\Release\BoL Dev Studio.exe
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\bin\Release\BoL Dev Studio.pdb
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\bin\Release\Aga.Controls.dll
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\bin\Release\AutocompleteMenu.dll
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\bin\Release\Crom.Controls.Docking.dll
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\bin\Release\FastColoredTextBox.dll
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Release\BoL Dev Studio.csprojResolveAssemblyReference.cache
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Release\BoL_Dev_Studio.Form1.resources
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Release\BoL_Dev_Studio.NewProject.resources
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Release\BoL_Dev_Studio.Properties.Resources.resources
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Release\BoL_Dev_Studio.Splash.resources
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Release\BoL_Dev_Studio.Working_Directory.resources
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Release\BoL Dev Studio.csproj.GenerateResource.Cache
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Release\BoL Dev Studio.exe.licenses
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Release\BoL Dev Studio.exe
+C:\Users\ABC\Documents\Visual Studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Release\BoL Dev Studio.pdb

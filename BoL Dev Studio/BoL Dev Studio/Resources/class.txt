@@ -1,0 +1,16 @@
+function class(name)
+ _G[name] = {}
+ _G[name].__index = _G[name]
+ local mt = {
+  __call = function (self, ...) 
+   local b = {}
+   setmetatable(b, _G[name]) 
+   if b.__init then 
+    b:__init(...) 
+   end 
+   return b 
+  end
+ }
+ setmetatable(_G[name], mt)
+ return _G[name]
+end

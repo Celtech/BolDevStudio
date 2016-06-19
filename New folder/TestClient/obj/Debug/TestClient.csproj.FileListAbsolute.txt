@@ -1,0 +1,12 @@
+C:\Users\ABC\Desktop\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\ABC\Desktop\TestClient\bin\Debug\TestClient.exe
+C:\Users\ABC\Desktop\TestClient\bin\Debug\TestClient.pdb
+C:\Users\ABC\Desktop\TestClient\bin\Debug\KRBTabControl.dll
+C:\Users\ABC\Desktop\TestClient\bin\Debug\KRBTabControl.pdb
+C:\Users\ABC\Desktop\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\ABC\Desktop\TestClient\obj\Debug\TestClient.ColorizerDialog.resources
+C:\Users\ABC\Desktop\TestClient\obj\Debug\TestClient.Form1.resources
+C:\Users\ABC\Desktop\TestClient\obj\Debug\TestClient.Properties.Resources.resources
+C:\Users\ABC\Desktop\TestClient\obj\Debug\TestClient.csproj.GenerateResource.Cache
+C:\Users\ABC\Desktop\TestClient\obj\Debug\TestClient.exe
+C:\Users\ABC\Desktop\TestClient\obj\Debug\TestClient.pdb

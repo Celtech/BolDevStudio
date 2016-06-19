@@ -1,0 +1,13 @@
+C:\Users\ABC\documents\visual studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\bin\Debug\BoL Dev Studio.exe.config
+C:\Users\ABC\documents\visual studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\bin\Debug\BoL Dev Studio.exe
+C:\Users\ABC\documents\visual studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\bin\Debug\BoL Dev Studio.pdb
+C:\Users\ABC\documents\visual studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\bin\Debug\AutocompleteMenu.dll
+C:\Users\ABC\documents\visual studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\bin\Debug\KRBTabControl.dll
+C:\Users\ABC\documents\visual studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Debug\BoL_Dev_Studio.Form1.resources
+C:\Users\ABC\documents\visual studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Debug\BoL_Dev_Studio.NewProject.resources
+C:\Users\ABC\documents\visual studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Debug\BoL_Dev_Studio.Properties.Resources.resources
+C:\Users\ABC\documents\visual studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Debug\BoL Dev Studio.csproj.GenerateResource.Cache
+C:\Users\ABC\documents\visual studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Debug\BoL Dev Studio.exe
+C:\Users\ABC\documents\visual studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Debug\BoL Dev Studio.pdb
+C:\Users\ABC\documents\visual studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\bin\Debug\FastColoredTextBox.dll
+C:\Users\ABC\documents\visual studio 2015\Projects\BoL Dev Studio\BoL Dev Studio\obj\Debug\BoL Dev Studio.csprojResolveAssemblyReference.cache
